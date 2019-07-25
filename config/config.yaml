@@ -1,0 +1,7 @@
+model_path : D:/elu_cifar
+test_path : D:/model_path/model_30.path
+test_folder: D:/model_path
+lr : 0.00001
+batch_size : 100
+epochs : 200
+pretrained : D:/elu_cifar/model_0.path
